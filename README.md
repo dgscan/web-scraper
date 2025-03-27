@@ -20,3 +20,10 @@ Ensure you have:
 ## 📥 Installation
 ```bash
 pip install -r requirements.txt
+
+## Run the script with:
+python scraper.py
+
+## The extracted leads are saved in sales_leads.xlsx.
+
+⚠️ Disclaimer: This tool is for ethical lead generation only. Respect website terms of use.
