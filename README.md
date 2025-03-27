@@ -17,6 +17,8 @@ Ensure you have:
 - **ChromeDriver**
 - **Selenium & Pandas** (install with the command below)
 
+⚠️ Disclaimer: This tool is for ethical lead generation only. Respect the website's terms of use.
+
 ## 📥 Installation
 ```bash
 pip install -r requirements.txt
@@ -25,5 +27,3 @@ pip install -r requirements.txt
 python scraper.py
 
 ## The extracted leads are saved in sales_leads.xlsx.
-
-⚠️ Disclaimer: This tool is for ethical lead generation only. Respect website terms of use.
